@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "minRequiredVersion": "1.0.0",
+  "minRequiredVersion": "0.9.0",
   "isCritical": false,
   "releaseNotes": [
     "Initial release of Macrofy",
