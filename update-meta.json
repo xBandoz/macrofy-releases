@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "minRequiredVersion": "1.0.0",
-  "isCritical": false,
+  "isCritical": true,
   "releaseNotes": [
     "Initial release of Macrofy",
     "Implemented secure, free closed-source auto-updater next to titlebar navbar logo"
